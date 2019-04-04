@@ -1,2 +1,2 @@
 # Naive-Bayes
-Naive Bayes code example
+Naive Bayes code example from very very scratch
